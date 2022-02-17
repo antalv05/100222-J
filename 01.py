@@ -3,7 +3,7 @@
 """
 Created on Thu Feb 10 10:28:40 2022
 
-@author: alumno
+@author: alumno probando
 """
 from multiprocessing import Process
 from multiprocessing import current_process
